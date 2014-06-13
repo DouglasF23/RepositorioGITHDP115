@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="module" version="3.0" client="site" method="upgrade">
+	<name>Hola mundo</name>
+	<author>Douglas Figueroa</author>
+	<version>0.1</version>
+	<description>Modulo hola mundo</description>
+	<files>
+		<filename>mod_holaMundo.xml</filename>
+		<filename module="mod_holaMundo">mod_holaMundo.php</filename>
+		<filename>index.html</filename>
+		<filename>helper.php</filename>
+		<filename>tmpl/default.php</filename>
+		<filename>tmpl/index.html</filename>
+		<filename>tmpl/menuPrincipal.php</filename>
+	</files>
+</extension>
