@@ -1,7 +1,7 @@
 <?php 
 defined('_JEXEC') or die('Acceso restringido<br />Buen intento!');
 
-
+//Comentario de prueba
 
 class UsuarioDB{
 	
